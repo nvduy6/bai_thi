@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "name": "duynvph15542",
+      "price": "50",
+      "id": 2
+    },
+    {
+      "name": "duy",
+      "price": "140.000",
+      "id": 3
+    },
+    {
+      "price": 50,
+      "name": "nukeviet12",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "name": "duy1234",
+      "image": "https://i.pinimg.com/originals/2e/f0/86/2ef086033e321d78e9bbd2cd06083fa4.jpg",
+      "desc": "bai viet moi them1235",
+      "id": 1
+    }
+  ],
+  "Categorys": [
+    {
+      "name": "nukeviet12",
+      "id": 1
+    },
+    {
+      "name": "user",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "duy",
+      "email": "duynvph15542@fpt.edu.vn",
+      "password": "123456",
+      "id": 1
+    }
+  ]
+}
